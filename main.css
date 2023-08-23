@@ -1,3 +1,47 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: Arial;
+}
+
 body{
-    background: #999;
-};
+    background: #222;
+}
+
+.header {
+    width: 100%;
+    height: 50;
+    background-color: green;
+    font-size: 50;
+}
+
+.titel{
+    width: 150;
+    height: 100%;
+    float:left;
+    color: white;
+}
+.tags {
+    width: 50%;
+    height: 50;
+
+    padding: auto, 0;
+    background-color: black;
+    float:left
+}
+
+
+.knoppen {
+
+    font-size: 20;
+    width: 50;
+    float:left;
+    margin: 13;
+
+}
+.nummer {
+    color: white;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
